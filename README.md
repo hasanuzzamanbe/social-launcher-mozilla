@@ -6,7 +6,6 @@ The latest version includes a new feature of your top sites.
 With a nice design.
 
 It's available now on google <a href="https://chrome.google.com/webstore/detail/social-launcher/ioijhmpjoplcmckgaiggcoockjijmcim"> Chrome Web Store</a>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/social-launcher/"> mozilla webstore link</a>
 
 ## Check The Video On Youtube:<br>
 <a href="https://www.youtube.com/watch?v=kGrZRbSTQwY" target="_blank" ><img style="border: 3px solid rgb(158, 179, 177);
@@ -32,3 +31,4 @@ or
 
 <a style="border: 1px solid #292828;padding: 2px;border-radius: 7px;background: #03A9F4;color: white;" href="https://www.facebook.com/shamim.reza.1029" target="_blank" >Facebook</a>
 <a style="border: 1px solid #292828;padding: 2px;border-radius: 7px;background: #00BCD4;color: white;" href="https://www.linkedin.com/in/hasanuzzaman-shamim-307680115/" target="_blank" >LinkedIn</a>
+
