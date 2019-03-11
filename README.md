@@ -5,6 +5,7 @@ I used Javascript and Google Chrome API for this project.
 The latest version includes a new feature of your top sites.
 With a nice design.
 
+It's available now on google <a href="https://addons.mozilla.org/en-US/firefox/addon/social-launcher/"> Mozilla web store</a>
 It's available now on google <a href="https://chrome.google.com/webstore/detail/social-launcher/ioijhmpjoplcmckgaiggcoockjijmcim"> Chrome Web Store</a>
 
 ## Check The Video On Youtube:<br>
