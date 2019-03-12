@@ -1,12 +1,12 @@
 # Social-launcher <img style="width: 46px; margin-left: 23px;" src="icon.png">
 Quick access to your socials.
-It's a browser extension for Chrome that can help to connect your popular sites by one click.
-I used Javascript and Google Chrome API for this project.
+It's a browser extension for Mozilla Firefox that can help to connect your popular sites by one click.
+Programmed by Javascript and Extension API for this project.
 The latest version includes a new feature of your top sites.
 With a nice design.
 
 It's available now on google <a href="https://addons.mozilla.org/en-US/firefox/addon/social-launcher/"> Mozilla web store</a>
-It's available now on google <a href="https://chrome.google.com/webstore/detail/social-launcher/ioijhmpjoplcmckgaiggcoockjijmcim"> Chrome Web Store</a>
+It's also available now on google <a href="https://chrome.google.com/webstore/detail/social-launcher/ioijhmpjoplcmckgaiggcoockjijmcim"> Chrome Web Store</a>
 
 ## Check The Video On Youtube:<br>
 <a href="https://www.youtube.com/watch?v=kGrZRbSTQwY" target="_blank" ><img style="border: 3px solid rgb(158, 179, 177);
@@ -15,7 +15,7 @@ It's available now on google <a href="https://chrome.google.com/webstore/detail/
     max-width: 480px;" src="vdo.png"></a>
 
 
-## My another work on Webstore:
+## My another work on chrome Webstore:
   Webstore Link:
   <a href="https://chrome.google.com/webstore/detail/quick-search-lite/boikedohmpklkpcmpkickjfnmalfbimf">Quick Search lite</a><br>
   Website Link:
